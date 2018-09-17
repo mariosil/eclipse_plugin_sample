@@ -55,7 +55,9 @@ After run _Ant_, a new file  `com.kwantec.helloworld.1.0.0.<bundle_version>.jar`
 Then we have to restart our Eclipse in order to see the plug-in contributions of this example in the main menu. 
 
 Our Eclipse main menu should looks like this: 
-![Eclipse main menu contribution Sample Menu]()
+
+![Eclipse main menu contribution "Sample Menu"](https://github.com/mariosil/eclipse_plugin_sample/blob/master/eclipse-main-menu-contrib.png)
 
 On click over ___Sample Menu___->___Sample Command___, a simple message dialog should be displayed:
-![Hello world message dialod]()
+
+![Hello world message dialod](https://github.com/mariosil/eclipse_plugin_sample/blob/master/eclipse-msj-dialog.png)
