@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Helloworld
+Bundle-SymbolicName: com.kwantec.helloworld;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: KWANTEC
+Require-Bundle: org.eclipse.ui
+Automatic-Module-Name: com.kwantec.helloworld
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
